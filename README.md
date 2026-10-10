@@ -6,7 +6,7 @@
 <a href="mailto:deeptanshuchakraborty@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/deepiee/"><img src="https://img.shields.io/badge/LeetCode-deepiee-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Teaching+machines+to+see%2C+predict+and+explain;Python+%2B+PyTorch+%2B+FastAPI+%2B+ML;Turning+notebooks+into+real+pipelines;Currently%3A+training+models+and+questioning+my+loss+curves" alt="Typing SVG" />
+
 
 </div>
 
