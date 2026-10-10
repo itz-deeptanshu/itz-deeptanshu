@@ -44,7 +44,7 @@ I'm an AI/ML engineer-in-the-making who likes taking a model from a messy datase
 
 | Project | What it is |
 |---|---|
-| [**DRISHTI**](https://github.com/itz-deeptanshu/DRISHTI-) | _Add a one-line description here_ |
+| [**DRISHTI**](https://github.com/itz-deeptanshu/DRISHTI-) | A full-stack, explainable AI system that grades diabetic retinopathy severity from a retinal photo |
 | [**DefaultGuard**](https://github.com/itz-deeptanshu/DefaultGuard) | End-to-end credit risk ML pipeline, from data analysis to a deployable model |
 
 ---
